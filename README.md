@@ -39,7 +39,7 @@ copy and paste the URL shown below into address bar on your browser.
 - Login as xcart store Admin, go to `Content` > `Edit templates` , click on `common_files` folder,
  and then click on folder name `payments` from the list.
 
-- Scroll to the bottom of your page, and upload file name `cc_nbepay.tpl` from the folder
+- Scroll to the bottom of your page, and upload file name `cc_molpay.tpl` from the folder
 name upload in this pack and then upload the file.
 
 - On the top menu, click on `Settings` tab, and choose `Payment Methods` from the list.
