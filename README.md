@@ -1,7 +1,7 @@
 MOLPay X-Cart Plugin
 =====================
 
-MOLPay Plugin for X-Cart Shopping Cart develop by MOLPay technical team.
+MOLPay Plugin for X-Cart Shopping Cart developed by MOLPay technical team.
 
 
 Supported version
@@ -56,7 +56,13 @@ click `[Apply Changes]` button.
 Merchant ID, Verify Key and Return URL to the respective fields. Click `[Update]` button to
 save all changes. You’re Done!
  
+Reminder
+-------------
+Please use below url for return url
 
+http://www.storedomain.com/payment/cc_molpay_process.php
+
+Replace www.storedomain.com with your own xcart URL
 
 Contribution
 ------------
