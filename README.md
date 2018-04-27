@@ -1,3 +1,6 @@
+<img src="https://user-images.githubusercontent.com/38641542/39344583-da87c94e-4a15-11e8-9ad4-b2b52165cfe0.jpg">
+
+
 MOLPay X-Cart Plugin
 =====================
 
@@ -54,7 +57,7 @@ click `[Apply Changes]` button.
 
 - Click on `Configure` link to start configure this payment module. Provide your MOLPay
 Merchant ID, Verify Key and Return URL to the respective fields. Click `[Update]` button to
-save all changes. You’re Done!
+save all changes. Youâ€™re Done!
  
 Reminder
 -------------
