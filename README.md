@@ -19,6 +19,8 @@ Supported version
 
 X-Cart version 4.6.3 Gold
 
+[Click Here for X-Cart version 5.2.x](https://github.com/MOLPay/X-Cart_Plugin/wiki/X-Cart_Plugin-5.2.x) 
+
 
 Notes
 -----
